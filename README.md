@@ -22,6 +22,15 @@ The product is designed to address **revenue leakage, claim denials, delayed rei
 
 This project reflects **real-world product ownership responsibilities** including requirement discovery, backlog management, sprint planning, stakeholder collaboration, and feature acceptance.
 
+## Healthcare Mission & Product Context
+
+This product is designed to support US healthcare organizations in improving financial sustainability while enabling better care delivery for vulnerable member populations.
+
+The work documented in this repository focuses strictly on **application and product development** and does **not involve access to Protected Health Information (PHI) or Personally Identifiable Information (PII)**.  
+All workflows, analytics, and configurations are designed to operate on **de-identified or non-sensitive operational data**, ensuring compliance with healthcare data governance standards.
+
+The product aligns with the broader healthcare technology mission of improving outcomes through scalable, secure, and intelligent systems.
+
 ---
 
 ## Business Problem
