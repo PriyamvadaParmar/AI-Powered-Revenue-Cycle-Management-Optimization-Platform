@@ -1,7 +1,10 @@
 # Product Backlog Prioritization Framework  
 ## AI-Powered Revenue Cycle Management (RCM) Product
 
----
+Backlog refinement and validation activities include analysis of large datasets using SQL queries to:
+- Validate assumptions
+- Identify trends and anomalies
+- Support prioritization and impact analysis
 
 ## 1. Purpose
 
