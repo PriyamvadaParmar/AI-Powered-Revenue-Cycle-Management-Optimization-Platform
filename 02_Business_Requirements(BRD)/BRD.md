@@ -15,6 +15,13 @@ The BRD serves as the primary reference for:
 
 This document enables clear alignment on **what is being built, why it is being built, and how success will be measured**.
 
+Product and Business Analysis responsibilities include:
+- Leading requirements gathering sessions with stakeholders
+- Translating business needs into clear, actionable specifications
+- Acting as a bridge between clients, project managers, and technical teams
+- Coordinating and supporting business analysis activities across initiatives
+- Ensuring requirements traceability through design, build, and validation
+
 ---
 
 ## 2. Business Background
