@@ -23,7 +23,8 @@ Key characteristics of the future state include:
 - Reduced dependency on individual expertise  
 - Faster and more predictable cash realization  
 
----
+---Business process re-engineering is a core component of the future state, with workflows redesigned to reduce handoffs, eliminate redundant steps, and align operational execution with technology capabilities.
+
 
 ## 3. Future-State RCM Workflow (High-Level)
 
