@@ -1,7 +1,11 @@
 # Product Epics  
 ## AI-Powered Revenue Cycle Management (RCM) Product
 
----
+Where applicable, epics may include:
+- Conversational interfaces and bot-driven workflows
+- Prompt engineering and AI-assisted decision support
+- Experience design considerations for operational users
+
 
 ## 1. Purpose
 
