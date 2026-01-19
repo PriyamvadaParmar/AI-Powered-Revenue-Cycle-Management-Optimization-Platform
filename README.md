@@ -31,7 +31,8 @@ All workflows, analytics, and configurations are designed to operate on **de-ide
 
 The product aligns with the broader healthcare technology mission of improving outcomes through scalable, secure, and intelligent systems.
 
----
+Beyond financial optimization, the product supports healthcare organizations serving high-risk and vulnerable populations by improving operational efficiency, reducing administrative waste, and enabling timely reimbursements that sustain care delivery.
+
 
 ## Business Problem
 
